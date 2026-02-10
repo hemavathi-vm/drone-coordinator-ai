@@ -6,14 +6,14 @@ The AI agent also detects operational conflicts and suggests urgent reassignment
 
 Features
 
-✅ Pilot roster management
-✅ Drone inventory tracking
-✅ Mission assignment based on skills and certifications
-✅ Conflict detection (availability, certification, maintenance, location mismatch)
-✅ Urgent reassignment suggestions for high-priority missions
-✅ Conversational AI interface
-✅ Web-based interface using Streamlit
-✅ Google Sheets integration with data synchronization
+**✅ Pilot roster management**
+**✅ Drone inventory tracking**
+**✅ Mission assignment based on skills and certifications**
+**✅ Conflict detection (availability, certification, maintenance, location mismatch)**
+**✅ Urgent reassignment suggestions for high-priority missions**
+**✅ Conversational AI interface**
+**✅ Web-based interface using Streamlit**
+**✅ Google Sheets integration with data synchronization**
 
 How It Works
 
